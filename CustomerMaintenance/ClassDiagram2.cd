@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CustomerMaintenance.Customer">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAQAEAAAAAADAAAABAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.CustomerDB">
+    <Position X="3" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAABAAAAAAAACAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>CustomerDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.frmAddModifyCustomer">
+    <Position X="13.25" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAgDQQABACAAABkAAACAAAICAgAAAAggABAAAAAAAAQ=</HashCode>
+      <FileName>frmAddModifyCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.frmCustomerMaintenance">
+    <Position X="9.5" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAgBAAABECAAABgAAACAAAACBiAggAEgABAAAIABAUY=</HashCode>
+      <FileName>frmCustomerMaintenance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.MMABooksDB">
+    <Position X="9.5" Y="7.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>MMABooksDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.Program">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.State">
+    <Position X="0.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.StateDB">
+    <Position X="3.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.Validator">
+    <Position X="0.75" Y="5.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUAAAAEAAQEAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.Properties.Resources">
+    <Position X="6" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.Properties.Settings">
+    <Position X="5.25" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
